@@ -5,6 +5,7 @@ import { innerFlex, mainContent } from "./page.styles";
 
 export function Page(props: PageProps) {
   useTitle(props.title);
+  //test
 
   return (
     <>
